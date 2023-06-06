@@ -14,7 +14,7 @@ List<Influencer> data = [
   Influencer(
       name: "Luis Sus",
       socialMedia: "@LuisSus",
-      imagePath: "https://leadership.ng/wp-content/uploads/2023/03/davido.png"
+      imagePath: "https://pbs.twimg.com/media/EwApWeKUcAIC8BF.png"
   ),
   Influencer(
       name: "Maria Gomez",
@@ -22,9 +22,9 @@ List<Influencer> data = [
       imagePath: "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg"
   ),
   Influencer(
-      name: "Ruben Garza",
+      name: "Tulu Tribiño",
       socialMedia: "@RubenGarza",
-      imagePath: "https://leadership.ng/wp-content/uploads/2023/03/davido.png"
+      imagePath: "https://i0.wp.com/31minutosoficial.cl/wp-content/uploads/2014/01/thumb-tulio2.png?fit=640%2C640&ssl=1"
   ),
   Influencer(
       name: "Barak Obama",
@@ -49,21 +49,21 @@ List<Influencer> data = [
   Influencer(
       name: "Lorem ipsum",
       socialMedia: "@RandomText",
-      imagePath: "https://leadership.ng/wp-content/uploads/2023/03/davido.png"
+      imagePath: "https://getlorem.com/static/images/cicero2.jpg"
   ),
   Influencer(
       name: "Compayitooo",
       socialMedia: "@TuCompa",
-      imagePath: "https://leadership.ng/wp-content/uploads/2023/03/davido.png"
+      imagePath: "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/OYDIPKPNYRHNFBDKAWKIHGM23M.png"
   ),
   Influencer(
-      name: "Pantalones rojos",
+      name: "Enchiladas Rojas",
       socialMedia: "@BienRojos",
-      imagePath: "https://leadership.ng/wp-content/uploads/2023/03/davido.png"
+      imagePath: "https://www.mexicoenmicocina.com/wp-content/uploads/2013/11/Enchiladas-rojas-2.jpg"
   ),
   Influencer(
       name: "Medic",
       socialMedia: "@MedicTF2",
-      imagePath: "https://leadership.ng/wp-content/uploads/2023/03/davido.png"
+      imagePath: "https://i1.sndcdn.com/artworks-FRIqYPtESjPf6jwJ-mEXsUg-t500x500.jpg"
   ),
 ];
